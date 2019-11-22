@@ -1,0 +1,1 @@
+# Bertelsmann Scholarship challenge code
